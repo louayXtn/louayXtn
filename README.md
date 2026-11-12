@@ -7,7 +7,7 @@ I'm a Full-Stack Web Developer from Gabès, Tunisia 🇹🇳 with a strong backg
 I'm currently looking for a Web Developer position where I can contribute technical expertise, build high-performance applications and add value to a dynamic engineering team.
 <br/>
 🔨 Languages and Tools
-<img alt="Tech stack" src="https://skillicons.dev/icons?i=react,nextjs,react,ts,js,html,css,tailwind,vite,nodejs,express,python,mongodb,mysql,postgres,prisma,git,github,linux,postman,figma&perline=7"/>
+<img alt="Tech stack" src="https://skillicons.dev/icons?i=react,nextjs,react,ts,js,html,css,tailwind,vite,nodejs,express,python,mongodb,mysql,postgres,prisma,git,github,linux,postman,figma&perline=7"/><br/>
 Frontend: React.js, Next.js, React Native, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, Vite Backend: Node.js, Express.js, RESTful APIs, Python, JWT Authentication Databases & ORM: MongoDB, Mongoose, MySQL, PostgreSQL, Prisma DevOps & Tools: Git, GitHub, Render, UptimeRobot, Cron-job.org, Postman, Linux, Figma
 
 
