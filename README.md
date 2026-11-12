@@ -5,7 +5,12 @@ Hey 👋, I'm Louay Awadh!
 I'm a Full-Stack Web Developer from Gabès, Tunisia 🇹🇳 with a strong background in Accounting and Finance, combining analytical logic with modern software engineering. I design and build scalable web applications with React, Next.js, Node.js, Express and MongoDB, with hands-on experience in REST API architecture, secure authentication and database management.
 
 I'm currently looking for a Web Developer position where I can contribute technical expertise, build high-performance applications and add value to a dynamic engineering team.
+<br/>
+🔨 Languages and Tools
 
+Frontend: React.js, Next.js, React Native, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, Vite Backend: Node.js, Express.js, RESTful APIs, Python, JWT Authentication Databases & ORM: MongoDB, Mongoose, MySQL, PostgreSQL, Prisma DevOps & Tools: Git, GitHub, Render, UptimeRobot, Cron-job.org, Postman, Linux, Figma
+
+<img alt="Tech stack" src="https://skillicons.dev/icons?i=react,nextjs,react,ts,js,html,css,tailwind,vite,nodejs,express,python,mongodb,mysql,postgres,prisma,git,github,linux,postman,figma&perline=7"/>
 <br/>
 🧐 More About Me
 💼   Web Application Developer (Full-Stack) since 2023
@@ -15,12 +20,7 @@ I'm currently looking for a Web Developer position where I can contribute techni
 🌍   Languages: Arabic (native), English (B2 / writing C1), French (B2 / writing C1)
 🌐   Portfolio: louay-portfolio.onrender.com
 📫   Feel free to reach me on LinkedIn or at louayawadh2ec@gmail.com
-<br/>
-🔨 Languages and Tools
-
-Frontend: React.js, Next.js, React Native, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, Vite Backend: Node.js, Express.js, RESTful APIs, Python, JWT Authentication Databases & ORM: MongoDB, Mongoose, MySQL, PostgreSQL, Prisma DevOps & Tools: Git, GitHub, Render, UptimeRobot, Cron-job.org, Postman, Linux, Figma
-
-<img alt="Tech stack" src="https://skillicons.dev/icons?i=react,nextjs,react,ts,js,html,css,tailwind,vite,nodejs,express,python,mongodb,mysql,postgres,prisma,git,github,linux,postman,figma&perline=7"/> <br/>
+ <br/>
 🛠️ Projects
 Project	Description	Stack
 WYF Connect	Secure RESTful API with JWT auth (HTTP-only cookies), bcrypt hashing, role-based access control (Youth / Investor) and dual-step identity verification (ID card + selfie).	Node.js, Express, MongoDB, Mongoose, JWT, Multer, ImageKit
