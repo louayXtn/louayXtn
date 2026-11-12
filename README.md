@@ -30,7 +30,4 @@ Personal Portfolio	Responsive single-page portfolio showcasing projects, skills 
 Artisan Société Platform	Application for a local artisan business with a clean UI, secure routing and product management.	React, Node.js, MongoDB
 Liquidity Risk Analysis – Banque de Tunisie	End-of-study project: quantitative and qualitative analysis of liquidity risk (LCR, loans/deposits ratios, 2021–2024).	Finance / Data analysis
 <br/>
-🏅 Certifications
-Responsive Web Design – freeCodeCamp (2025), 300+ hours of practice and projects
-Data Analysis: Hypothesis Testing – The Open University
 <br/>
